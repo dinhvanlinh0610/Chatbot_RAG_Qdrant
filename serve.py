@@ -13,7 +13,7 @@ from reflection.core import Reflection
 from database import QDRANT_DATABASE
 load_dotenv()
 
-LLM_KEY = "AIzaSyDgTZKAdYqzoqnzrzUKcoQAriqsXuTGOmU"
+LLM_KEY = ""
 EMBEDDING_MODEL = "keepitreal/vietnamese-sbert"
 QDRANT_URI = "http://localhost:6333"
 COLLECTION_NAME = "law_of_marriage"
